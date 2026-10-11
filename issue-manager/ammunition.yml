@@ -1546,7 +1546,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] totient'
   description: Euler totient of a number
   signature: 'run(n: str) -> str'
@@ -1555,7 +1555,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] permutation_count'
   description: Number of permutations of n taken r
   signature: 'run(n: str, r: str) -> str'
@@ -1564,7 +1564,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] combination_count'
   description: Number of combinations of n taken r
   signature: 'run(n: str, r: str) -> str'
