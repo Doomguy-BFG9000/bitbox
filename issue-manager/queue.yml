@@ -1593,7 +1593,34 @@ rounds:
   - help wanted
   - tool request
   status: spent
+- title: '[tool] is_coprime'
+  description: Check if two numbers share no common factor
+  signature: 'run(a: str, b: str) -> str'
+  example: is_coprime "8" "9" -> "True"
+  labels:
+  - good first issue
+  - help wanted
+  - tool request
+  status: spent
+- title: '[tool] totient'
+  description: Euler totient of a number
+  signature: 'run(n: str) -> str'
+  example: totient "9" -> "6"
+  labels:
+  - good first issue
+  - help wanted
+  - tool request
+  status: spent
+- title: '[tool] permutation_count'
+  description: Number of permutations of n taken r
+  signature: 'run(n: str, r: str) -> str'
+  example: permutation_count "5" "3" -> "60"
+  labels:
+  - good first issue
+  - help wanted
+  - tool request
+  status: spent
 stats:
-  total_loaded: 183
-  total_fired: 185
-  last_fired: '2026-10-10T14:58:06.798531+00:00'
+  total_loaded: 186
+  total_fired: 188
+  last_fired: '2026-10-11T15:16:36.982238+00:00'
