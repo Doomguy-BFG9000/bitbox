@@ -16,7 +16,6 @@ def run(*args) -> str:
         return "false"
     if parsed.scheme not in {"http", "https"}:
         return "false"
-    if not parsed.netloc:
+    if not parsed.hostname:
         return "false"
     return "true"
-
