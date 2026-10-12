@@ -1573,7 +1573,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] divisors'
   description: List all divisors of a number
   signature: 'run(n: str) -> str'
@@ -1582,7 +1582,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] decimal_to_words'
   description: Spell out a number in English words
   signature: 'run(n: str) -> str'
@@ -1591,7 +1591,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] add_binary'
   description: Add two binary strings
   signature: 'run(a: str, b: str) -> str'
