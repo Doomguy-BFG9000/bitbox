@@ -1620,7 +1620,34 @@ rounds:
   - help wanted
   - tool request
   status: spent
+- title: '[tool] combination_count'
+  description: Number of combinations of n taken r
+  signature: 'run(n: str, r: str) -> str'
+  example: combination_count "5" "3" -> "10"
+  labels:
+  - good first issue
+  - help wanted
+  - tool request
+  status: spent
+- title: '[tool] divisors'
+  description: List all divisors of a number
+  signature: 'run(n: str) -> str'
+  example: divisors "12" -> "1,2,3,4,6,12"
+  labels:
+  - good first issue
+  - help wanted
+  - tool request
+  status: spent
+- title: '[tool] decimal_to_words'
+  description: Spell out a number in English words
+  signature: 'run(n: str) -> str'
+  example: decimal_to_words "1234" -> "one thousand two hundred thirty-four"
+  labels:
+  - good first issue
+  - help wanted
+  - tool request
+  status: spent
 stats:
-  total_loaded: 186
-  total_fired: 188
-  last_fired: '2026-10-11T15:16:36.982238+00:00'
+  total_loaded: 189
+  total_fired: 191
+  last_fired: '2026-10-12T18:29:37.886476+00:00'
