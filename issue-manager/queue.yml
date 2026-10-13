@@ -1647,7 +1647,34 @@ rounds:
   - help wanted
   - tool request
   status: spent
+- title: '[tool] add_binary'
+  description: Add two binary strings
+  signature: 'run(a: str, b: str) -> str'
+  example: add_binary "1010" "11" -> "1101"
+  labels:
+  - good first issue
+  - help wanted
+  - tool request
+  status: spent
+- title: '[tool] modpow'
+  description: Modular exponentiation a^b mod m
+  signature: 'run(a: str, b: str, m: str) -> str'
+  example: modpow "3" "4" "5" -> "1"
+  labels:
+  - good first issue
+  - help wanted
+  - tool request
+  status: spent
+- title: '[tool] fibonacci_sequence'
+  description: First n Fibonacci numbers
+  signature: 'run(n: str) -> str'
+  example: fibonacci_sequence "6" -> "0,1,1,2,3,5"
+  labels:
+  - good first issue
+  - help wanted
+  - tool request
+  status: spent
 stats:
-  total_loaded: 189
-  total_fired: 191
-  last_fired: '2026-10-12T18:29:37.886476+00:00'
+  total_loaded: 192
+  total_fired: 194
+  last_fired: '2026-10-13T16:40:24.813520+00:00'
