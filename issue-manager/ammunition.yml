@@ -1600,7 +1600,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] modpow'
   description: Modular exponentiation a^b mod m
   signature: 'run(a: str, b: str, m: str) -> str'
@@ -1609,7 +1609,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] fibonacci_sequence'
   description: First n Fibonacci numbers
   signature: 'run(n: str) -> str'
@@ -1618,7 +1618,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] collatz_sequence'
   description: Collatz sequence from n down to 1
   signature: 'run(n: str) -> str'
