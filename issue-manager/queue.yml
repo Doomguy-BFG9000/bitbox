@@ -1674,7 +1674,34 @@ rounds:
   - help wanted
   - tool request
   status: spent
+- title: '[tool] collatz_sequence'
+  description: Collatz sequence from n down to 1
+  signature: 'run(n: str) -> str'
+  example: collatz_sequence "6" -> "6,3,10,5,16,8,4,2,1"
+  labels:
+  - good first issue
+  - help wanted
+  - tool request
+  status: spent
+- title: '[tool] set_difference'
+  description: Elements of one list missing from another
+  signature: 'run(a: str, b: str) -> str'
+  example: set_difference "1,2,3" "2,4" -> "1,3"
+  labels:
+  - good first issue
+  - help wanted
+  - tool request
+  status: spent
+- title: '[tool] symmetric_difference'
+  description: Elements in either list but not both
+  signature: 'run(a: str, b: str) -> str'
+  example: symmetric_difference "1,2" "2,3" -> "1,3"
+  labels:
+  - good first issue
+  - help wanted
+  - tool request
+  status: spent
 stats:
-  total_loaded: 192
-  total_fired: 194
-  last_fired: '2026-10-13T16:40:24.813520+00:00'
+  total_loaded: 195
+  total_fired: 197
+  last_fired: '2026-10-14T14:16:21.093043+00:00'
