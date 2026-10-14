@@ -149,5 +149,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@yuefdev](https://github.com/yuefdev) | rotate_string |
 
 | [@marcosistoocommon](https://github.com/marcosistoocommon) | run_length_encode |
+| [@CRYPTONIKAV](https://github.com/CRYPTONIKAV) | aliquot_sum, is_harshad, is_pandigital |
+| [@farukttbasar](https://github.com/farukttbasar) | permutation_count |
 
 <!-- Contributors are added automatically after PRs are merged -->
