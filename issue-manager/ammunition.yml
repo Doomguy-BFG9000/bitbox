@@ -1627,7 +1627,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] set_difference'
   description: Elements of one list missing from another
   signature: 'run(a: str, b: str) -> str'
@@ -1636,7 +1636,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] symmetric_difference'
   description: Elements in either list but not both
   signature: 'run(a: str, b: str) -> str'
@@ -1645,7 +1645,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] cumulative_sum'
   description: Running total of a list of numbers
   signature: 'run(nums: str) -> str'
