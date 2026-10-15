@@ -131,7 +131,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@Killerbrine06](https://github.com/Killerbrine06) | binary_to_octal |
 | [@AashishGupta2007](https://github.com/AashishGupta2007) | digit_sum |
 | [@divyanshsinghtomar-ds](https://github.com/divyanshsinghtomar-ds) | subtract_days |
-| [@ShauryaPrakashVerma](https://github.com/ShauryaPrakashVerma) | count_lowercase, count_uppercase, count_non_vowels, is_vowel, count_consonants, pig_latin, initials, snake_to_kebab |
+| [@ShauryaPrakashVerma](https://github.com/ShauryaPrakashVerma) | count_lowercase, count_uppercase, count_non_vowels, is_vowel, count_consonants, pig_latin, initials, snake_to_kebab, word_lengths |
 
 | [@GabrielTrifoni](https://github.com/GabrielTrifoni) | digits_product, char_at |
 | [@fathirramadhan-web](https://github.com/fathirramadhan-web) | intersection_of_lists |
@@ -151,5 +151,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@marcosistoocommon](https://github.com/marcosistoocommon) | run_length_encode |
 | [@CRYPTONIKAV](https://github.com/CRYPTONIKAV) | aliquot_sum, is_harshad, is_pandigital |
 | [@farukttbasar](https://github.com/farukttbasar) | permutation_count |
+| [@Wkhanex](https://github.com/Wkhanex) | combination_count, divisors |
 
 <!-- Contributors are added automatically after PRs are merged -->
