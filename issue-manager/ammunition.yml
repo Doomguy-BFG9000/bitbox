@@ -1654,7 +1654,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] is_subset'
   description: Check if every element of one list is in another
   signature: 'run(a: str, b: str) -> str'
@@ -1663,7 +1663,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] count_negative'
   description: Count negative numbers in a list
   signature: 'run(nums: str) -> str'
@@ -1672,7 +1672,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] month_name'
   description: Name of the month for a date
   signature: 'run(date_str: str) -> str'
