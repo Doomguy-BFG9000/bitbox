@@ -148,9 +148,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@DYNOSuprovo](https://github.com/DYNOSuprovo) | character_appearances |
 | [@yuefdev](https://github.com/yuefdev) | rotate_string |
 
-| [@marcosistoocommon](https://github.com/marcosistoocommon) | run_length_encode |
+| [@marcosistoocommon](https://github.com/marcosistoocommon) | run_length_encode, truncate_middle |
 | [@CRYPTONIKAV](https://github.com/CRYPTONIKAV) | aliquot_sum, is_harshad, is_pandigital |
 | [@farukttbasar](https://github.com/farukttbasar) | permutation_count |
 | [@Wkhanex](https://github.com/Wkhanex) | combination_count, divisors |
 
+| [@adityawaghamare](https://github.com/adityawaghamare) | longest_palindrome |
+| [@bongurishi](https://github.com/bongurishi) | sort_chars |
+| [@Enard52](https://github.com/Enard52) | collatz_sequence |
 <!-- Contributors are added automatically after PRs are merged -->
