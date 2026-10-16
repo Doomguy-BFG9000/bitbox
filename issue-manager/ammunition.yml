@@ -1681,7 +1681,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] quarter_of_year'
   description: Calendar quarter for a date
   signature: 'run(date_str: str) -> str'
@@ -1690,7 +1690,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] ip_to_int'
   description: Convert an IPv4 address to an integer
   signature: 'run(text: str) -> str'
@@ -1699,7 +1699,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] mime_from_ext'
   description: MIME type for a file extension
   signature: 'run(text: str) -> str'
