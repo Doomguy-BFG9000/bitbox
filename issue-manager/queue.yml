@@ -1755,7 +1755,34 @@ rounds:
   - help wanted
   - tool request
   status: spent
+- title: '[tool] mime_from_ext'
+  description: MIME type for a file extension
+  signature: 'run(text: str) -> str'
+  example: mime_from_ext ".png" -> "image/png"
+  labels:
+  - good first issue
+  - help wanted
+  - tool request
+  status: spent
+- title: '[tool] is_base64'
+  description: Check if a string is valid Base64
+  signature: 'run(text: str) -> str'
+  example: is_base64 "aGVsbG8=" -> "True"
+  labels:
+  - good first issue
+  - help wanted
+  - tool request
+  status: spent
+- title: '[tool] hex_to_ascii'
+  description: Decode a hex string to ASCII
+  signature: 'run(text: str) -> str'
+  example: hex_to_ascii "4869" -> "Hi"
+  labels:
+  - good first issue
+  - help wanted
+  - tool request
+  status: spent
 stats:
-  total_loaded: 201
-  total_fired: 203
-  last_fired: '2026-10-16T13:41:56.668000+00:00'
+  total_loaded: 204
+  total_fired: 206
+  last_fired: '2026-10-17T12:38:16.925889+00:00'
