@@ -1708,7 +1708,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] is_base64'
   description: Check if a string is valid Base64
   signature: 'run(text: str) -> str'
@@ -1717,7 +1717,7 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
 - title: '[tool] hex_to_ascii'
   description: Decode a hex string to ASCII
   signature: 'run(text: str) -> str'
@@ -1726,4 +1726,4 @@ second_wave:
   - good first issue
   - help wanted
   - tool request
-  fired: false
+  fired: true
